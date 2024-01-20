@@ -1,19 +1,25 @@
 {
     "chain_name": "arkeo",
-    "api":["https://arkeo.api.blackowl.tech"],
-    "rpc":["https://arkeo.rpc.blackowl.tech"],
-    "snapshot_provider": "",
-    "sdk_version": "0.46.13",
-    "coin_type": 118,
+    "api": [
+      {"provider": "BlackOwl", "address": "https://arkeo.api.blackowl.tech"}
+  ],
+  "rpc": [
+      {"provider": "BlackOwl", "address": "https://arkeo.rpc.blackowl.tech"}
+  ],
+  "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "tarkeo",
     "logo": "/logos/arkeo.png",
     "keplr_features": ["ibc-transfer", "ibc-go"],
-    "theme_color": "#3bacce",
-    "assets": [{
+    "theme_color": "#4520e6",
+    "assets": [
+      {
         "base": "uarkeo",
         "symbol": "ARKEO",
-        "exponent": 6,
+        "exponent": "8",
         "logo": "/logos/arkeo.png"
-    }]
-}
+      }
+    ]
+  }
