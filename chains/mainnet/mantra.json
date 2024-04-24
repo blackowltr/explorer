@@ -1,12 +1,12 @@
 {
     "chain_name": "mantra",
     "api": [
-        {"provider": "BlackOwl", "address": ""}
+        {"provider": "BlackOwl", "address": "https://mantra.api.blackowl.tech"}
     ],
     "rpc": [
-        {"provider": "BlackOwl", "address": ""}
+        {"provider": "BlackOwl", "address": "https://mantra.rpc.blackowl.tech"}
     ],
-    "snapshot_provider": "",
+    "snapshot_provider": "BlackOwl",
     "sdk_version": "0.47.4",
     "coin_type": "118",
     "min_tx_fee": "5000",
