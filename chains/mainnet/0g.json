@@ -1,10 +1,10 @@
 {
     "chain_name": "0G",
     "api": [
-      {"provider": "BlackOwl", "address": "https://0g.api.blackowl.tech"}
+      {"provider": "BlackOwl", "address": "https://og.api.blackowl.tech"}
   ],
   "rpc": [
-      {"provider": "BlackOwl", "address": "https://0g.rpc.blackowl.tech"}
+      {"provider": "BlackOwl", "address": "https://og.rpc.blackowl.tech"}
   ],
   "snapshot_provider": "",
     "sdk_version": "0.47.4",
