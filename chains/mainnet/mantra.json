@@ -1,5 +1,5 @@
 {
-    "chain_name": "mantra",
+    "chain_name": "Mantra",
     "api": [
         {"provider": "BlackOwl", "address": "https://mantra.api.blackowl.tech"}
     ],
