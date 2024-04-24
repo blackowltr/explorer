@@ -1,0 +1,25 @@
+{
+    "chain_name": "Side Protocol",
+    "api": [
+      {"provider": "BlackOwl", "address": "https://side.api.blackowl.tech"}
+  ],
+  "rpc": [
+      {"provider": "BlackOwl", "address": "https://side.rpc.blackowl.tech"}
+  ],
+  "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "uside",
+    "logo": "/logos/side.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#A2A2A2",
+    "assets": [
+      {
+        "base": "uside",
+        "symbol": "SIDE",
+        "exponent": "8",
+        "logo": "/logos/side.png"
+      }
+    ]
+  }
