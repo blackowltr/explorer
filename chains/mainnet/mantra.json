@@ -15,8 +15,8 @@
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#ae528b",
     "assets": [{
-        "base": "uaum",
-        "symbol": "AUM",
+        "base": "uom",
+        "symbol": "UOM",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/mantra.png"
