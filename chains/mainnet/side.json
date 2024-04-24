@@ -6,7 +6,7 @@
   "rpc": [
       {"provider": "BlackOwl", "address": "https://side.rpc.blackowl.tech"}
   ],
-  "snapshot_provider": "",
+  "snapshot_provider": "BlackOwl",
     "sdk_version": "0.47.4",
     "coin_type": "118",
     "min_tx_fee": "5000",
