@@ -1,0 +1,25 @@
+{
+    "chain_name": "Initia",
+    "api": [
+      {"provider": "BlackOwl", "address": "https://initia-api.blackowl.tech"}
+  ],
+  "rpc": [
+      {"provider": "BlackOwl", "address": "https://initia-rpc.blackowl.tech"}
+  ],
+  "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "addr_prefix": "init",
+    "logo": "/logos/initia.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#0000FF",
+    "assets": [
+      {
+        "base": "uinit",
+        "symbol": "ART",
+        "exponent": "18",
+        "logo": "/logos/initia.png"
+      }
+    ]
+  }
