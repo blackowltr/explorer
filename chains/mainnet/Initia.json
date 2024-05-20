@@ -6,7 +6,7 @@
   "rpc": [
       {"provider": "BlackOwl", "address": "https://initia-rpc.blackowl.tech"}
   ],
-  "snapshot_provider": "",
+  "snapshot_provider": "BlackOwl",
     "sdk_version": "0.47.4",
     "coin_type": "60",
     "min_tx_fee": "5000",
@@ -17,7 +17,7 @@
     "assets": [
       {
         "base": "uinit",
-        "symbol": "ART",
+        "symbol": "INIT",
         "exponent": "18",
         "logo": "/logos/initia.png"
       }
