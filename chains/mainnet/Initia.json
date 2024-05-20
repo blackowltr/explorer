@@ -13,7 +13,7 @@
     "addr_prefix": "init",
     "logo": "/logos/initia.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
-    "theme_color": "#0000FF",
+    "theme_color": "#000000",
     "assets": [
       {
         "base": "uinit",
